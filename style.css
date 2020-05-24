@@ -23,6 +23,8 @@ div.menu{
     height: 120px;
     background-color: salmon;
     position: relative;
+    overflow: hidden;
+    position: fixed;
 }
 
 div.menu h1{
