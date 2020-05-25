@@ -9,14 +9,22 @@ p:hover{
 
 p{
     color: black;
+    font-family: 'Open Sans Condensed', sans-serif;
 }
 
 h1{
     color: black;
+    font-family: 'Open Sans Condensed', sans-serif;
 }
 
 h3{
     color: black;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+h2{
+    color: black;
+    font-family: 'Open Sans Condensed', sans-serif;
 }
 
 div.menu{
